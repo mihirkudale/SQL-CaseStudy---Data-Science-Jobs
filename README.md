@@ -1,1 +1,1 @@
-# SQL-CaseStudy---Data-Science-Jobs
+# SQL-CaseStudy-Data-Science-Jobs
